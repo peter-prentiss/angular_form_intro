@@ -1,0 +1,16 @@
+h1 {
+  color: skyblue;
+  background-color: black;
+}
+
+body {
+  background-color: orange;
+}
+
+.col-md-4 {
+  background-color: skyblue;
+  height: 150px;
+  width: 300px;
+  border-radius: 15px;
+  /*clear: both;*/
+}
