@@ -8,9 +8,29 @@ body {
 }
 
 .col-md-4 {
+  display: inline;
   background-color: skyblue;
   height: 150px;
   width: 300px;
   border-radius: 15px;
+  padding: 10px;
+  margin: 10px;
+  /*float: left;*/
   /*clear: both;*/
+}
+
+.btn-danger {
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  border-radius: 5px;
+}
+
+.search {
+  padding: 50px;
+  background-color: gray;
+}
+
+.submit {
+  padding-bottom: 15px;
 }

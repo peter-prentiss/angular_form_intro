@@ -1,17 +1,27 @@
 # angular_form_intro
 
+## APPLICATION OVERVIEW
+Used Angular and HTML/CSS to create a basic Name/Message form. Applying initial concepts from Angular including: ng-app, ng-click, and ng-repeat.
+
 ## BASE MODE
 [X] Name, message and submit button with Angular
 
 ## HARD MODE
-[ ] Add delete button and bootstrap
+[X] Add delete button and bootstrap
 
 ## PRO MODE
-[ ] Add search bar
+[X] Add search bar
+
+
+## REFACTOR IDEAS
+[ ] Have "Results" header appear when Search input is selected
+[ ] Improve layout of appended posts
+[ ] Form verification (no empty submits, etc)
+
+
 
 QUESTIONS
-  * Why was an Object showing up from ng-model connection?
-
+  * Why was an Object showing up in message box from ng-model connection?
 
 
 GOTCHAS
